@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\project-vet-clinic\project-vet-clinic\obj\Debug\net6.0-windows\project_vet_clinic.IndexForm.resources
+C:\Users\HP\source\repos\project-vet-clinic\project-vet-clinic\obj\Debug\net6.0-windows\project_vet_clinic.NewPetForm.resources
+C:\Users\HP\source\repos\project-vet-clinic\project-vet-clinic\obj\Debug\net6.0-windows\project_vet_clinic.PetDetailsForm.resources
+C:\Users\HP\source\repos\project-vet-clinic\project-vet-clinic\obj\Debug\net6.0-windows\project-vet-clinic.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\project-vet-clinic\project-vet-clinic\obj\Debug\net6.0-windows\project-vet-clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\project-vet-clinic\project-vet-clinic\obj\Debug\net6.0-windows\project-vet-clinic.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\project-vet-clinic\project-vet-clinic\obj\Debug\net6.0-windows\project-vet-clinic.AssemblyInfo.cs
+C:\Users\HP\source\repos\project-vet-clinic\project-vet-clinic\obj\Debug\net6.0-windows\project-vet-clinic.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\project-vet-clinic\project-vet-clinic\obj\Debug\net6.0-windows\project_vet_clinic.Properties.Resources.resources
